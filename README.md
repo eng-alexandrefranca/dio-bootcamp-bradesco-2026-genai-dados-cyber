@@ -16,17 +16,18 @@ O programa é focado na capacitação tecnológica em três grandes pilares do m
 O repositório está organizado da seguinte forma:
 
 ```text
-├── 🛠️ desafios-de-codigo/     # Resoluções de desafios de lógica e sintaxe
-├── 📊 projetos-dados/          # Relatórios, dashboards e scripts de análise
-├── 🤖 projetos-genai/          # Prompts avançados e assistentes virtuais criados
-├── 🔒 ciberseguranca/          # Exercícios práticas e simulações de segurança
-└── README.md                   # Documentação do repositório
+├── 🛠️ desafios-de-codigo/       # Resoluções de desafios de lógica e sintaxe
+├── 📊 projetos-dados/           # Relatórios, dashboards e scripts de análise
+├── 🔒 ciberseguranca/           # Exercícios práticas e simulações de segurança
+├── 🤖 projetos-genai/           # Prompts avançados e assistentes virtuais criados
+├── 📖 modulos/                  # Módulos do bootcamp
+└── README.md                    # Documentação do repositório
 ```
 
 ## 📝 Desafios e Projetos Desenvolvidos
 
 ### 1. Inteligência Artificial Generativa (GenAI)
-* **[Nome do Projeto 1]:** Engenharia de prompts aplicada para otimização de processos ou criação de assistentes.
+* **Miniguia Estudos Notebooklm:** Engenharia de prompts aplicada.
 
 ### 2. Análise de Dados
 * **[Nome do Projeto 2]:** Construção de dashboards interativos ou scripts em Python para tratamento de grandes volumes de dados.
