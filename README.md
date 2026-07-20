@@ -19,6 +19,7 @@ O repositório está organizado da seguinte forma:
 ├── 🛠️ desafios-de-codigo/       # Resoluções de desafios de lógica e sintaxe
 ├── 📊 projetos-dados/           # Relatórios, dashboards e scripts de análise
 ├── 🔒 ciberseguranca/           # Exercícios práticas e simulações de segurança
+├── 📊 projetos-intro-dados/     # Introdução: Relatórios, dashboards e scripts de análise
 ├── 🤖 projetos-genai/           # Prompts avançados e assistentes virtuais criados
 ├── 📖 modulos/                  # Módulos do bootcamp
 └── README.md                    # Documentação do repositório
@@ -28,6 +29,9 @@ O repositório está organizado da seguinte forma:
 
 ### 1. Inteligência Artificial Generativa (GenAI)
 * **Miniguia Estudos Notebooklm:** Engenharia de prompts aplicada.
+
+### 2. Introdução de Análise de Dados
+* **Desafio Criativo:**  Extraindo insights do feedback de clientes bancários.
 
 ### 2. Análise de Dados
 * **[Nome do Projeto 2]:** Construção de dashboards interativos ou scripts em Python para tratamento de grandes volumes de dados.
