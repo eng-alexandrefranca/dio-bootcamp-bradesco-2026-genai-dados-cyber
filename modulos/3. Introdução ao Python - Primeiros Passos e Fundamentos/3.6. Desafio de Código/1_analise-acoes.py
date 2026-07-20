@@ -1,0 +1,43 @@
+"""
+ Básico
+ Princípios Básicos
+Desafio
+Você acaba de ser contratado como analista júnior em uma corretora de valores que está desenvolvendo um sistema para ajudar investidores iniciantes a entenderem rapidamente se uma ação teve um bom desempenho no dia. Seu chefe, entusiasmado com a tecnologia, propõe um desafio: criar um programa simples que, ao receber o preço de abertura e o preço de fechamento de uma ação, informe se ela valorizou, desvalorizou ou permaneceu estável. Essa ferramenta será usada em treinamentos para novos investidores, ajudando-os a interpretar rapidamente os movimentos básicos do mercado financeiro.
+
+Implemente um programa que leia dois valores inteiros positivos: o preço de abertura e o preço de fechamento de uma ação. O programa deve comparar os valores e imprimir "ALTA" se o preço de fechamento for maior que o de abertura, "BAIXA" se for menor, ou "ESTAVEL" se forem iguais. Não utilize bibliotecas externas. Considere apenas os dois valores fornecidos na entrada, separados por espaço.
+
+Entrada
+Uma única linha contendo dois números inteiros positivos separados por espaço, representando respectivamente o preço de abertura e o preço de fechamento da ação.
+
+Saída
+Uma única palavra: "ALTA", "BAIXA" ou "ESTAVEL", de acordo com a comparação entre os valores de abertura e fechamento.
+
+Exemplos
+A tabela abaixo apresenta exemplos de entrada e saída:
+
+Entrada	Saída
+10 15	ALTA
+20 18	BAIXA
+30 30	ESTAVEL
+5 5	ESTAVEL
+
+"""
+
+
+# Lê a linha de entrada com os dois valores separados por espaço
+entrada = input()
+
+# Divide a string em uma lista de strings usando o espaço como separador
+valores = entrada.split()
+
+# Converte cada valor da lista para um número inteiro
+preco_abertura = int(valores[0])
+preco_fechamento = int(valores[1])
+
+# Compara os preços utilizando estruturas condicionais
+if preco_fechamento > preco_abertura:
+    print("ALTA")
+elif preco_fechamento < preco_abertura:
+    print("BAIXA")
+else:
+    print("ESTAVEL")
