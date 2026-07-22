@@ -30,14 +30,17 @@ Este repositório foi desenvolvido para o desafio de projeto "Construa Seu Assis
 O repositório está organizado da seguinte forma:
 
 
+```text
 assistente-virtual-ia/
 ├── data/
-│   └── base_conhecimento.txt 
+│   └── base_conhecimento.txt
 ├── docs/
 │   └── prompt_sistema.md
 ├── src/
 │   └── app.py
 └── README.md
+```
+
 
 ## 🤖 Como Testar Localmente
 
