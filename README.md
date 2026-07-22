@@ -17,10 +17,10 @@ O repositório está organizado da seguinte forma:
 
 ```text
 ├── 🛠️ desafios-de-codigo/       # Resoluções de desafios de lógica e sintaxe
+├── 🤖🔒 projeto-final/           # Projeto Final com Assistente de IA com ciberseguranca
 ├── 📖 modulos/                  # Módulos do bootcamp
 ├── 📊 projetos-dados/           # Relatórios, dashboards e scripts de análise
 ├── 🤖 projetos-genai/           # Prompts avançados e assistentes virtuais criados
-├── 🔒 ciberseguranca/           # Exercícios práticas e simulações de segurança
 ├── 📊 projetos-intro-dados/     # Introdução: Relatórios, dashboards e scripts de análise
 └── README.md                    # Documentação do repositório
 ```
@@ -36,8 +36,8 @@ O repositório está organizado da seguinte forma:
 ### 2. Análise de Dados
 * **Detecção de Anomalias em Transações em Python:** Detecção de anomalias em transações em base de dados pública com transações fraudulentas (Credit Card Fraud Detection).
 
-### 3. Cibersegurança
-* **[Nome do Exercício/Projeto 3]:** Aplicação prática de políticas de segurança, criptografia de dados ou relatórios de vulnerabilidade.
+### 3. Projeto Final: Assistente de IA com Cibersegurança
+* **Assistente Virtual Com Inteligência Artificial:** solução simples, capaz de conversar com uma pessoa usuária, entender uma necessidade e responder com base em informações organizadas.
 
 ## 🛠️ Como Executar os Projetos
 
