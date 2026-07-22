@@ -1,6 +1,6 @@
 # 🚀 DevGuide Bot - Assistente de Orientação de Estudos com IA
 
-Este repositório foi desenvolvido para o desafio de projeto "Construa Seu Assistente Virtual Com Inteligência Artificial" da DIO. O objetivo é guiar profissionais iniciantes que desejam entrar na área de tecnologia, ajudando-os a escolher uma trilha de aprendizado inicial sem sobrecarga de informações.
+Este repositório foi desenvolvido para o desafio de projeto "Construa Seu Assistente Virtual Com Inteligência Artificial" da DIO com apoio do Bradesco. O objetivo é guiar profissionais iniciantes que desejam entrar na área de tecnologia, ajudando-os a escolher uma trilha de aprendizado inicial sem sobrecarga de informações.
 
 ## 🛠️ Como o projeto foi estruturado
 
