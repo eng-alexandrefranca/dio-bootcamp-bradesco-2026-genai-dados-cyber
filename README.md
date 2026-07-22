@@ -17,11 +17,11 @@ O repositório está organizado da seguinte forma:
 
 ```text
 ├── 🛠️ desafios-de-codigo/       # Resoluções de desafios de lógica e sintaxe
-├── 🔒 ciberseguranca/           # Exercícios práticas e simulações de segurança
-├── 📊 projetos-dados/           # Relatórios, dashboards e scripts de análise
-├── 📊 projetos-intro-dados/     # Introdução: Relatórios, dashboards e scripts de análise
-├── 🤖 projetos-genai/           # Prompts avançados e assistentes virtuais criados
 ├── 📖 modulos/                  # Módulos do bootcamp
+├── 📊 projetos-dados/           # Relatórios, dashboards e scripts de análise
+├── 🤖 projetos-genai/           # Prompts avançados e assistentes virtuais criados
+├── 🔒 ciberseguranca/           # Exercícios práticas e simulações de segurança
+├── 📊 projetos-intro-dados/     # Introdução: Relatórios, dashboards e scripts de análise
 └── README.md                    # Documentação do repositório
 ```
 
@@ -34,7 +34,7 @@ O repositório está organizado da seguinte forma:
 * **Desafio Criativo:**  Extraindo insights do feedback de clientes bancários.
 
 ### 2. Análise de Dados
-* **[Nome do Projeto 2]:** Construção de dashboards interativos ou scripts em Python para tratamento de grandes volumes de dados.
+* **Detecção de Anomalias em Transações em Python:** Detecção de anomalias em transações em base de dados pública com transações fraudulentas (Credit Card Fraud Detection).
 
 ### 3. Cibersegurança
 * **[Nome do Exercício/Projeto 3]:** Aplicação prática de políticas de segurança, criptografia de dados ou relatórios de vulnerabilidade.

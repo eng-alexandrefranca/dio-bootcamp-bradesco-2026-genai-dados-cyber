@@ -11,6 +11,11 @@ from imblearn.over_sampling import SMOTE
 
 #import kagglehub
 
+#echo "creditcard.csv" >> .gitignore
+
+#git lfs migrate import --include="modulos/5. Análise de Dados com Python/5.8. Desafio de Projeto/data/creditcard.csv" --everything
+
+
 # 1. Carregar os dados https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 """
