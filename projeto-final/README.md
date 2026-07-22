@@ -12,6 +12,15 @@ Você também pode consultar o Repositório de Exemplo, usado como apoio nas par
 
 > 💡 **Nota:** O projeto de referência apresenta um Agente Financeiro Inteligente, mas você pode adaptar a ideia para outro contexto. O mais importante é mostrar que seu assistente tem um objetivo claro, usa uma base de conhecimento e responde de forma útil.
 
+
+### Harness
+
+Google Antigravity (recomendado)	https://antigravity.google/docs
+Claude Code	https://docs.claude.com/en/docs/claude-code
+Codex	https://developers.openai.com/codex
+OpenCode	https://opencode.ai/docs
+Hermes	https://hermes-agent.nousresearch.com/docs
+
 ---
 
 ## 🎯 O Que Criar

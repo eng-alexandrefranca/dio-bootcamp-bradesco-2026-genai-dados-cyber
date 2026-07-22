@@ -58,6 +58,15 @@ pip install streamlit google-generativeai
 streamlit run src/app.py
 ```
 
+### Harness
+
+    Google Antigravity (recomendado)	https://antigravity.google/docs
+    Claude Code	https://docs.claude.com/en/docs/claude-code
+    Codex	https://developers.openai.com/codex
+    OpenCode	https://opencode.ai/docs
+    Hermes	https://hermes-agent.nousresearch.com/docs
+
+
 ## 📈📊 4. Avaliação e Métricas
 
 O assistente foi testado contra cenários de fora de escopo para garantir que não invente respostas e se mantenha fiel à base de conhecimento fornecida em `data/`.
