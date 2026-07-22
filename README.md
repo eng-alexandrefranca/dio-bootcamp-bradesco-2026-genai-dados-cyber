@@ -17,8 +17,8 @@ O repositório está organizado da seguinte forma:
 
 ```text
 ├── 🛠️ desafios-de-codigo/       # Resoluções de desafios de lógica e sintaxe
-├── 📊 projetos-dados/           # Relatórios, dashboards e scripts de análise
 ├── 🔒 ciberseguranca/           # Exercícios práticas e simulações de segurança
+├── 📊 projetos-dados/           # Relatórios, dashboards e scripts de análise
 ├── 📊 projetos-intro-dados/     # Introdução: Relatórios, dashboards e scripts de análise
 ├── 🤖 projetos-genai/           # Prompts avançados e assistentes virtuais criados
 ├── 📖 modulos/                  # Módulos do bootcamp

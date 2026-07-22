@@ -1,4 +1,4 @@
-Materiais de Apoio
+Materiais de Apoio: https://github.com/digitalinnovationone/trilha-net-banco-de-dados/blob/main/Scripts/2%20-%20Tabela%20Produtos.sql
 Os materiais complementares e de apoio que oferecemos têm como objetivo fornecer informações para facilitar e enriquecer a sua jornada de aprendizado no curso "Criando um Processo de ETL". Aqui você encontrará links úteis, como slides, repositórios e páginas oficiais, além de dicas sobre como se destacar na DIO e no mercado de trabalho 😉
 
 Recursos Adicionais
