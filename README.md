@@ -39,6 +39,18 @@ O repositório está organizado da seguinte forma:
 ### 3. Projeto Final: Assistente de IA com Cibersegurança
 * **Assistente Virtual Com Inteligência Artificial:** solução simples, capaz de conversar com uma pessoa usuária, entender uma necessidade e responder com base em informações organizadas.
 
+   #### Estrutura inicial baseada nos seguintes repositórios:
+
+   [🔗 Dio Agent](https://github.com/digitalinnovationone/dio-agent)
+
+   [🔗 Dio: Bia do Futuro](https://github.com/digitalinnovationone/dio-lab-bia-do-futuro)
+
+   [🔗 Dio: Edu - Educador Financeiro Inteligente](https://github.com/falvojr/dio-lab-bia-do-futuro)
+
+
+
+
+
 ## 🛠️ Como Executar os Projetos
 
 1. Navegue até a pasta local desejada:
@@ -58,4 +70,4 @@ O repositório está organizado da seguinte forma:
 ## 👤 Autor
 
 * **Alexandre**
-* GitHub: [🔗 Link para o seu GitHub](https://github.com/eng-alexandrefranca)
+* GitHub: [🔗 GitHub](https://github.com/eng-alexandrefranca)
