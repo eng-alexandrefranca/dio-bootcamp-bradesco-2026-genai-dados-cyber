@@ -66,19 +66,41 @@ O repositório está organizado da seguinte forma:
 ## Documentação Oficial
 
 * **Python**
-* Docs: [🔗 Tutorial](https://docs.python.org/3.14/tutorial/index.html)
 
-* **NumPy**
-* Docs: [🔗 User Guide](https://numpy.org/doc/2.5/user/index.html#user)
+   Docs: [🔗 Tutorial](https://docs.python.org/3.14/tutorial/index.html)
 
-* **pandas**
-* Docs: [🔗 User Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+* **NumPy** → Biblioteca usada para computação numérica e científica. Seus recursos principais são: os arrays multidimensionais e as operações vetorizadas.
 
-* **matplotlib**
-* Docs: [🔗 Documentation](https://matplotlib.org/stable/index.html)
+   Docs: [🔗 User Guide](https://numpy.org/doc/2.5/user/index.html#user)
+
+* **Pandas** → Biblioteca usada para manipulação e análise de dados.
+
+   Princiapis Objetos: 
+
+      -  Series: uma estrutura unidimensional, parecida com uma lista, mas com rótulos em cada elemento.
+
+      - DataFrame: uma estrutura bidimensional, semelhante a uma planilha do Excel ou a uma tabela de banco de dados, onde os dados são organizados em linhas e colunas.
+
+   Docs: [🔗 User Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+
+
+Principais bibliotecas para visualização de dados:
+
+* **Matplotlib** → Gráficos Básicos
+   
+   Docs: [🔗 Documentation](https://matplotlib.org/stable/index.html)
+
+* **Seaborn** → Gráficos Estatísticos
+
+   Docs: [🔗 Tutorial](https://seaborn.pydata.org/tutorial.html)
+
+* **Plotly** → Gráficos Interativos
+   
+   Docs: [🔗 Tutorial](https://dash.plotly.com/)
 
 
 ## 👤 Autor
 
 * **Alexandre**
-* GitHub: [🔗 GitHub](https://github.com/eng-alexandrefranca)
+   
+   GitHub: [🔗 GitHub](https://github.com/eng-alexandrefranca)
