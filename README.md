@@ -68,6 +68,16 @@ O repositório está organizado da seguinte forma:
 * **Python**
 * Docs: [🔗 Tutorial](https://docs.python.org/3.14/tutorial/index.html)
 
+* **NumPy**
+* Docs: [🔗 User Guide](https://numpy.org/doc/2.5/user/index.html#user)
+
+* **pandas**
+* Docs: [🔗 User Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+
+* **matplotlib**
+* Docs: [🔗 Documentation](https://matplotlib.org/stable/index.html)
+
+
 ## 👤 Autor
 
 * **Alexandre**
