@@ -4,7 +4,7 @@ Este guia reúne os comandos essenciais do Git para gerenciamento de repositóri
 
 ---
 
-## 🆕 Criar um Novo Repositório (Linha de Comando)
+## 🆕 Criar um Novo Repositório Local (Linha de Comando)
 
 Use estes comandos para iniciar um projeto do zero localmente e enviá-lo ao GitHub:
 
@@ -25,7 +25,7 @@ git commit -m "first commit"
 git branch -M main
 
 # Vincula o repositório local ao repositório remoto no GitHub
-git remote add origin https://github.com
+git remote add origin https://github.com/[meu-repositorio].git
 
 # Envia o código para o GitHub (e define a branch padrão com -u)
 git push -u origin main
@@ -33,16 +33,28 @@ git push -u origin main
 
 ---
 
-## 📤 Enviar um Repositório Existente
+## 📤 Enviar para um Repositório GitHub Existente
 
 Se você já tem um projeto Git local e quer apenas vinculá-lo ao GitHub:
 
 ```bash
+# Inicia o Git na sua pasta local
+git init
+
+# Adiciona todos os arquivos locais para o próximo envio
+git add .
+
+# Salva a versão atual dos arquivos localmente
+git commit -m "Primeiro commit local"
+
 # Vincula o repositório local ao remoto
-git remote add origin https://github.com
+git remote add origin https://github.com/[meu-repositorio].git
 
 # Garante que a branch principal se chama 'main'
 git branch -M main
+
+# Sincroniza o GitHub com o local (necessário pois o GitHub possui histórico independente)
+git pull origin main --allow-unrelated-histories
 
 # Envia os arquivos para o repositório remoto
 git push -u origin main
