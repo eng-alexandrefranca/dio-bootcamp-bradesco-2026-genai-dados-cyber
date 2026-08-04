@@ -47,10 +47,6 @@ O repositório está organizado da seguinte forma:
 
    [🔗 Dio: Edu - Educador Financeiro Inteligente](https://github.com/falvojr/dio-lab-bia-do-futuro)
 
-
-
-
-
 ## 🛠️ Como Executar os Projetos
 
 1. Navegue até a pasta local desejada:
@@ -66,6 +62,11 @@ O repositório está organizado da seguinte forma:
    cd nome-do-repositorio-baixado
    ```
 4. Siga as instruções específicas de inicialização contidas no arquivo de cada subpasta.
+
+## Documentação Oficial
+
+* **Python**
+* Docs: [🔗 Tutorial](https://docs.python.org/3.14/tutorial/index.html)
 
 ## 👤 Autor
 
